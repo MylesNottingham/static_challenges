@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(29, 29, 29);
+  color: white;
+  font-family: Arial, sans-serif;
+}
+header {
+  height: 30px;
+}
+header li {
+  display: inline;
+  padding: 10px;
+}
+h1 {
+  font-size: 120%;
+}
+nav {
+  font-size: 60%;
+  background-color: rgb(18, 45, 95);
+  color: white;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  text-align: center;
+}
+nav li {
+  display: inline;
+  padding: 50px;
+}
+footer {
+  font-size: 50%;
+}
+#login {
+  font-size: 70%;
+  background-color: rgb(100, 139, 42);
+  float: right;
+}
+#main {
+  background-image: src="../images/1.jpg";
+  background-size: cover;
+}
+#images {
+  background-color: white;
+  color: black;
+  display: inline-block;
+}
+#images img {
+  width: 100px;
+  crop: 100px;
+}
+.words {
+  font-size: 50%;
+}
